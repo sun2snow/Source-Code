@@ -3,7 +3,8 @@
 
 ## Introduce
 
-- `AcWing`：[AcWing](https://www.acwing.com/) 中题目练习；
+- `AcWing`：[AcWing](https://www.acwing.com/) 中题目练习。
+- `Luogu`：[洛谷](https://www.luogu.com.cn/) 中题目练习。
 - `Contest`：记录在参加模拟赛的代码。
 
 ## Tricks
