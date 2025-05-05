@@ -1,8 +1,8 @@
 找到一条最长的子序列 $\{s_n\}$，使得 $\exists i\in[1,n]$，满足
 
 $$
-\forall j\in[1,i),s_j<s_{j+1}\\
-\forall j\in(i,n],s_j>s_{j+1}\\
+\forall j\in[1,i),s_j < s_{j+1}\\
+\forall j\in(i,n],s_j > s_{j+1}
 $$
 
 ---
@@ -16,6 +16,7 @@ $$
 答案记在 $\{f_n\},\{g_n\}$。
 
 最终结果即为
+
 $$
 \max\limits_{i=1}^{n}\{f_i+g_i-1\}
 $$
